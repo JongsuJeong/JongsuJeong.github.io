@@ -45,7 +45,7 @@ sidebar:
       title: Interests
       info:
         - item: Watching movies
-          link: post
+          link: 'post'
 
         - item: Three kingdoms
           link:
