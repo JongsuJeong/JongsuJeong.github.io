@@ -65,7 +65,7 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: Bachelor of Science(multi-disciplinary majors)
+      - degree: Bachelor of Science \n (multi-disciplinary majors)
         university: Ulsan National Institute of Science & Technology
         time: 2015 - 2021
         details: |
